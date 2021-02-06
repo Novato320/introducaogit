@@ -1,2 +1,2 @@
 # introducaogit
-repositorio do thiago
+repositorio do Guilherme
